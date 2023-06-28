@@ -1,4 +1,4 @@
-# Clone do Instagram em ReactJS
+# Instagram Multiversal (Clone do Instagram em ReactJS)
 
 Este é um projeto de clone do Instagram desenvolvido em ReactJS. Ele oferece uma interface semelhante à do Instagram, permitindo que os usuários visualizem posts.
 
