@@ -23,14 +23,10 @@ Este é um projeto de clone do Instagram desenvolvido em ReactJS. Ele oferece um
 
 ## Funcionalidades
 
-O projeto possui as seguintes funcionalidades:
+O projeto possui as seguinte funcionalidade:
 
 - **Visualização de Posts**: Os usuários podem visualizar posts de fotos na página inicial, exibindo a imagem, o autor e a legenda.
-- **Curtir**: Os usuários podem curtir os posts ao clicar no botão de curtir.
-- **Comentar**: Os usuários podem comentar nos posts, adicionando seus próprios comentários.
-- **Compartilhar**: Os usuários podem compartilhar os posts em outras plataformas ou por mensagem direta.
-- **Seguir Usuários**: Os usuários podem seguir outros usuários para verem seus posts em sua linha do tempo.
-- **Perfil de Usuário**: Cada usuário tem seu próprio perfil, onde podem visualizar seus posts, seguidores e quem eles estão seguindo.
+
 
 ## Como Executar
 
