@@ -1,0 +1,18 @@
+.informações {
+    justify-content:space-between ;
+}
+
+
+.salvar {
+    margin: 5px 5px;
+    font-size: 20px;
+}
+
+.salvando {
+    direction: ltr;
+}
+
+.acoes {
+    display: flex;
+}
+

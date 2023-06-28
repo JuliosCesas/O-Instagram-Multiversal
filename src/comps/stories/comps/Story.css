@@ -1,0 +1,25 @@
+.boxzinho {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.Imagem {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin: 10px 10px 10px 30px;
+
+    background-clip: border-box;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(255,149,0,1) 100%);
+    padding: 5px;
+}
+
+.User {
+    display: flex;
+
+    margin: 0px 10px 0px 30px;
+    font-size: 14px;
+}
+

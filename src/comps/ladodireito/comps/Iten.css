@@ -1,0 +1,32 @@
+.titulo {
+    color: #ccc;
+    margin-top: 30px;
+}
+
+.perfil {
+    display: flex;
+    flex-direction: row;
+}
+
+.imagemusuario img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 10px 0px;
+}
+
+.nomedeusuario {
+    margin: 10px 20px ;
+}
+
+.nome {
+    font-weight: bold;
+}
+
+.recomend {
+    color: #ccc;
+}
+
+.seguir {
+    color: blue;
+}

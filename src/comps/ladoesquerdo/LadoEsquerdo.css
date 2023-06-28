@@ -1,0 +1,96 @@
+/*.LadoEsquerdo {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+
+.logo {
+    margin: 20px 20px;
+}
+
+.menu-principal {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 20px;
+    height: 60hv;
+    justify-content: space-around;
+}
+
+.menu-principal span {
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+}
+
+.logo img {
+    max-width: 75px;
+}
+
+.icone {
+    color: #000;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.icone svg {
+    width: 30px;
+}*/
+
+.LadoEsquerdo {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+
+.logo img {
+    height: 60px;
+    margin: 20px;
+}
+
+.menu-principal {
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
+}
+
+.menu-principal span {
+    display: inline-block;
+
+    font-weight: bold;
+}
+
+.icone svg {
+    height: 25px;
+}
+
+.icone {
+    color: #000;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.perfil img {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.perfil {
+    margin: 4px;
+    padding: 10px;
+}
+
+.menu span{
+    padding-top: 20px;
+    
+    display: flex;
+    flex-direction: row;
+}
