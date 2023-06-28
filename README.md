@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Clone do Instagram em ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto de clone do Instagram desenvolvido em ReactJS. Ele oferece uma interface semelhante à do Instagram, permitindo que os usuários visualizem posts.
 
-## Available Scripts
+## Funcionalidades
 
-In the project directory, you can run:
+O projeto possui as seguintes funcionalidades:
 
-### `npm start`
+- **Visualização de Posts**: Os usuários podem visualizar posts de fotos na página inicial, exibindo a imagem, o autor e a legenda.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Como Executar
 
-### `npm test`
+1. Clone este repositório para o seu ambiente local:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Aqui está o código no formato Markdown para o README do GitHub, baseado nas informações fornecidas:
 
-### `npm run build`
+markdown
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Clone do Instagram em ReactJS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este é um projeto de clone do Instagram desenvolvido em ReactJS. Ele oferece uma interface semelhante à do Instagram, permitindo que os usuários visualizem posts, curtam, comentem e compartilhem fotos, além de seguirem outros usuários.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Funcionalidades
 
-### `npm run eject`
+O projeto possui as seguintes funcionalidades:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Visualização de Posts**: Os usuários podem visualizar posts de fotos na página inicial, exibindo a imagem, o autor e a legenda.
+- **Curtir**: Os usuários podem curtir os posts ao clicar no botão de curtir.
+- **Comentar**: Os usuários podem comentar nos posts, adicionando seus próprios comentários.
+- **Compartilhar**: Os usuários podem compartilhar os posts em outras plataformas ou por mensagem direta.
+- **Seguir Usuários**: Os usuários podem seguir outros usuários para verem seus posts em sua linha do tempo.
+- **Perfil de Usuário**: Cada usuário tem seu próprio perfil, onde podem visualizar seus posts, seguidores e quem eles estão seguindo.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Capturas de Tela
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Captura de Tela 1](screenshots/screenshot1.png)
+*Legenda da Captura de Tela 1*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Captura de Tela 2](screenshots/screenshot2.png)
+*Legenda da Captura de Tela 2*
 
-## Learn More
+## Como Executar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone este repositório para o seu ambiente local:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Navegue até o diretório do projeto:
+cd nome-do-repositorio
 
-### Code Splitting
+3. Instale as dependências do projeto:
+No terminal:
+npm install
+ou
+yarn install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. Inicie o servidor de desenvolvimento:
+No terminal
+npm start
+ou
+yarn start
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Tecnologias Utilizadas
 
-### Making a Progressive Web App
+    ReactJS
+    HTML5
+    CSS3
+    JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
