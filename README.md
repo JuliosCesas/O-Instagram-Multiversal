@@ -32,14 +32,6 @@ O projeto possui as seguintes funcionalidades:
 - **Seguir Usuários**: Os usuários podem seguir outros usuários para verem seus posts em sua linha do tempo.
 - **Perfil de Usuário**: Cada usuário tem seu próprio perfil, onde podem visualizar seus posts, seguidores e quem eles estão seguindo.
 
-## Capturas de Tela
-
-![Captura de Tela 1](screenshots/screenshot1.png)
-*Legenda da Captura de Tela 1*
-
-![Captura de Tela 2](screenshots/screenshot2.png)
-*Legenda da Captura de Tela 2*
-
 ## Como Executar
 
 1. Clone este repositório para o seu ambiente local:
